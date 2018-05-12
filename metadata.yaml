@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46075#Motor-Matt--or-The-King-of-the-WheelMotor-Stories-Thrilling-Adventure-Motor-Fiction-No-1.
 gutenberg_issued: '2014-06-23'
 gutenberg_type: Text
 identifiers:
